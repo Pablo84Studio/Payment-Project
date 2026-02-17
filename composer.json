@@ -1,0 +1,7 @@
+{
+  "name": "pablo84studio/payment-project",
+  "description": "Demo payment gateway with optional Stripe integration",
+  "require": {
+    "stripe/stripe-php": "^10.0"
+  }
+}
